@@ -1,7 +1,7 @@
 # ISD.VN.20242-11
 
-* Phân công tuần 3 *
-  - Trần Xuân Tú 20225677:
+* Phân công nhiệm vụ:
+  - **Trần Xuân Tú 20225677**:
       + Usecase: Place Order
       + Review usecase: Add & Update Product
       + Requirement: Use Case Diagram & Usability
