@@ -3,8 +3,9 @@
 * Phân công nhiệm vụ:
   - **Trần Xuân Tú 20225677**:
       + Usecase: Place Order
-      + Review usecase: Add & Update Product
+      + Review usecase: Add & Update Product & View Order Detail
       + Requirement: Use Case Diagram & Usability
+      + Combine Analysis Class Diagrams for all use cases
   - Vũ Trần Tuấn Minh 20225891:
       + Usecase: Place Rush Order & Pay Order
       + Review usecase: Place Order
