@@ -1,19 +1,18 @@
-# ISD.VN.20242-11
+## Getting Started
 
-* Phân công nhiệm vụ:
-  - **Trần Xuân Tú 20225677**:
-      + Usecase: Place Order
-      + Review usecase: Add & Update Product
-      + Requirement: Use Case Diagram & Usability
-  - Vũ Trần Tuấn Minh 20225891:
-      + Usecase: Place Rush Order & Pay Order
-      + Review usecase: Place Order
-      + Requirement: Introduction & Functionality
-  - Đỗ Doãn Vinh 20225953:
-      + Usecase: View Product Detail
-      + Review usecase:Place Rush Order & Pay Order
-      + Requirement: Reliability & Performance & Supportability
-  - Hoàng Ngọc Ánh 20214992:
-      + Usecase: Add & Update Product
-      + Review usecase: View Product Detail
-      + Requirement: Business process
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
